@@ -1,0 +1,107 @@
+cff-version: 1.2.0
+title: "Best-Practice & Guidelines"
+message: "If you use this content, please cite it as below."
+authors:
+  - name: "SDSC - Swiss Data Science Center"
+    address: Andreasstrasse 5
+    city: Zürich
+    post-code: 8050
+    country: CH
+date-released: 2025-02-13
+url: "https://swissdatasciencecenter.github.io/best-practice-documentation"
+repository-code: "https://gitlab.datascience.ch/sdsc-best-practices/documentation"
+preferred-citation:
+  authors:
+    - name: "SDSC - Swiss Data Science Center"
+  title: "Best Practices & Guidelines"
+  type: website
+  year: 2025
+license: "MIT"
+keywords:
+  [
+    "dev-practice",
+    "repo-guideline",
+    "repository-structure",
+    "commit-convention",
+    "branching-model",
+    "code-scaffolding",
+    "repository-template",
+    "documentation",
+    "code-review",
+    "merge-request",
+    "merge",
+    "rebase",
+    "language-guideline",
+    "programming",
+    "python",
+    "go",
+    "rust",
+    "typescript",
+    "scala",
+    "nix",
+    "toolchain",
+    "formatting",
+    "linting",
+    "building",
+    "publishing",
+    "security",
+    "privacy",
+    "gpg",
+    "cloud",
+    "kubernetes",
+    "k8s",
+    "k8s-manifest",
+    "yaml-templating",
+    "ytt",
+    "kustomize",
+    "helm",
+    "aws",
+    "gcp",
+    "container",
+    "docker",
+    "podman",
+    "virtualization",
+    "vm",
+    "dev-enablement",
+    "hardware-setup",
+    "computer-setup",
+    "work-setup",
+    "hardware",
+    "computer",
+    "laptop",
+    "ide",
+    "vscode",
+    "neovim",
+    "pycharm",
+    "devcontainer",
+    "devshell",
+    "shell",
+    "terminal",
+    "terminal-multiplexer",
+    "terminal-tools",
+    "package-manager",
+    "nixos",
+    "git",
+    "performance",
+    "profiling",
+    "benchmarking",
+    "automation",
+    "ci",
+    "cd",
+    "workflow",
+    "workflow-manager",
+    "ml",
+    "llm",
+    "open-source-software",
+    "open-source-data",
+    "open-source-license",
+    "copyright",
+    "open-research-data",
+    "fair-principles",
+    "ui-design",
+    "web-design",
+    "fonts",
+    "visualisation",
+    "communication",
+    "reproducibility",
+  ]

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksdsc_best_practices=self.webpackChunksdsc_best_practices||[]).push([[1235],{88552:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

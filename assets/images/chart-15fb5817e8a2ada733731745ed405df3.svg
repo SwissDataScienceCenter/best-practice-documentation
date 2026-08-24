@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="122.58469mm"
+   height="125.87935mm"
+   viewBox="0 0 122.58468 125.87935"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="chart.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.6928336"
+     inkscape:cx="253.82185"
+     inkscape:cy="197.74709"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.573486,-38.223103)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       id="rect14"
+       width="122.58469"
+       height="125.87935"
+       x="42.573486"
+       y="38.223103" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#ConcaveTriangle);marker-end:url(#marker2)"
+       d="M 103.86583,45.53258 V 155.56782"
+       id="path1" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       d="M 50.458957,100.5502 H 157.2727"
+       id="path3" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="108.07459"
+       y="46.570335"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.4"
+         x="108.07459"
+         y="46.570335" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="149.23605"
+       y="105.23844"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-weight:bold;font-size:3.52778px;stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="149.23605"
+         y="105.23844">High Reward</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="117.8753"
+       y="45.729321"
+       id="text4-5"><tspan
+         sodipodi:role="line"
+         id="tspan4-3"
+         style="font-weight:bold;font-size:3.52778px;stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="117.8753"
+         y="45.729321">High Conflict</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="66.675758"
+       y="64.002495"
+       id="text4-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-6"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="66.675758"
+         y="64.002495">Arbitrary Preferences</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="58.680798"
+       y="105.23844"
+       id="text4-5-9"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:3.52778px;stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="58.680798"
+         y="105.23844"
+         id="tspan1">Low Reward</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="117.41366"
+       y="158.04475"
+       id="text4-5-9-9"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:3.52778px;stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="117.41366"
+         y="158.04475"
+         id="tspan1-3">Low Conflict</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="49.635986"
+       y="86.104324"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.265"
+         x="49.635986"
+         y="86.104324"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="73.349823"
+       y="80.363243"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.265"
+         x="73.349823"
+         y="80.363243">Whitespace</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="70.207848"
+       y="86.245811"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.265"
+         x="70.207848"
+         y="86.245811">Typo in Comment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="131.75133"
+       y="60.211761"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.265"
+         x="131.75133"
+         y="60.211761">Desing Pattern Choice</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="138.18097"
+       y="66.782982"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.265"
+         x="138.18097"
+         y="66.782982">Over-Engineering</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="146.59734"
+       y="76.455078"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-size:3.52778px;stroke-width:0.265"
+         x="146.59734"
+         y="76.455078">Readability</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="134.87192"
+       y="91.350975"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.265"
+         x="134.87192"
+         y="91.350975">Naming Choices</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="140.1927"
+       y="96.695419"
+       id="text9-9"><tspan
+         sodipodi:role="line"
+         id="tspan9-2"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.265"
+         x="140.1927"
+         y="96.695419">Code Duplication</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="143.44418"
+       y="140.32712"
+       id="text10-7"><tspan
+         sodipodi:role="line"
+         id="tspan10-5"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.265"
+         x="143.44418"
+         y="140.32712">Wrong Behaviour</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="142.45972"
+       y="146.64705"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.265"
+         x="142.45972"
+         y="146.64705">Bug</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="147.55849"
+       y="132.33705"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.265"
+         x="147.55849"
+         y="132.33705">Missing Test</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="87.150902"
+       y="111.26466"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.265"
+         x="87.150902"
+         y="111.26466">Rogue Logging</tspan></text>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       id="path14"
+       cx="103.86583"
+       cy="100.5502"
+       r="1.5" />
+  </g>
+</svg>

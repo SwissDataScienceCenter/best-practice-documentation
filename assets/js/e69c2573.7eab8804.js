@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksdsc_best_practices=self.webpackChunksdsc_best_practices||[]).push([[6671],{56934:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/best-practice-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

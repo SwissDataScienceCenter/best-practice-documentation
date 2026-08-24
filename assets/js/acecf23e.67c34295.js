@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksdsc_best_practices=self.webpackChunksdsc_best_practices||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/best-practice-documentation/blog","blogTitle":"Blog","authorsListPath":"/best-practice-documentation/blog/authors"}')}}]);

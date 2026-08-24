@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://swissdatasciencecenter.github.io/best-practice-documentation/blog</id>
+    <title>Best Practices &amp; Guidelines Blog</title>
+    <updated>2025-08-19T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://swissdatasciencecenter.github.io/best-practice-documentation/blog"/>
+    <subtitle>Best Practices &amp; Guidelines Blog</subtitle>
+    <icon>https://swissdatasciencecenter.github.io/best-practice-documentation/img/sdsc-favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Launch]]></title>
+        <id>https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/08/19/announce</id>
+        <link href="https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/08/19/announce"/>
+        <updated>2025-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dear all,]]></summary>
+        <content type="html"><![CDATA[<p>Dear all,</p>
+<p>We are excited to announce the <strong>SDSC-wide best-practices &amp; guidelines
+documentation</strong> 🎉.</p>
+<p>Thanks to all the work from the <strong>Best-Practice Ambassador Team</strong>, we're
+launching the docs and we welcome any contributor to help us improve it and
+expand it 👏🏽.</p>
+<p>This documentation is primarily intended for <strong>research software developers and
+data scientists</strong>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="goals">Goals<a href="https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/08/19/announce#goals" class="hash-link" aria-label="Direct link to Goals" title="Direct link to Goals">​</a></h2>
+<p>The goal of this documentation is to streamline state-of-the-art best-practices
+&amp; guidelines for everybody
+<a href="https://swissdatasciencecenter.github.io/best-practice-documentation/docs/chapters/how-to-cite" target="_blank" rel="noopener noreferrer">to reuse and cite</a>.
+Every page
+<a href="https://swissdatasciencecenter.github.io/best-practice-documentation/docs/tags" target="_blank" rel="noopener noreferrer"><strong>is tagged</strong></a>
+to make the documentation more searchable.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="links">Links<a href="https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/08/19/announce#links" class="hash-link" aria-label="Direct link to Links" title="Direct link to Links">​</a></h2>
+<ul>
+<li><a href="https://pages.datascience.ch/sdsc-best-practices/documentation/" target="_blank" rel="noopener noreferrer">Internal Documentation</a></li>
+<li><a href="https://swissdatasciencecenter.github.io/best-practice-documentation/" target="_blank" rel="noopener noreferrer">Public Documentation</a></li>
+<li><a href="https://pages.datascience.ch/sdsc-best-practices/documentation/docs/category/all-meetings" target="_blank" rel="noopener noreferrer">BPA Meeting Notes</a></li>
+<li><a href="https://gitlab.datascience.ch/sdsc-best-practices/documentation" target="_blank" rel="noopener noreferrer">Repository</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="call-to-action">Call to Action<a href="https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/08/19/announce#call-to-action" class="hash-link" aria-label="Direct link to Call to Action" title="Direct link to Call to Action">​</a></h2>
+<p>Now we need you 🫵🏼 - as many pages are still under construction and would
+benefit from your input 🚧. If you wanna feel like a hero and you'd like to
+contribute, please start by reading the
+<a href="https://pages.datascience.ch/sdsc-best-practices/documentation/docs/contribute/intro" target="_blank" rel="noopener noreferrer">contribution guide</a>.
+We appreciate any input, opinion or suggestion 💘. It is also advisable to
+announce your contributions <a href="https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/08/19/announce#join-the-community">first here</a> to reduce
+double-work and friction. Note that <strong>your authorship</strong> will become more
+prominently visible to the public once we
+<a href="https://gitlab.datascience.ch/sdsc-best-practices/documentation/-/issues/9" target="_blank" rel="noopener noreferrer">integrated this issue</a>.</p>
+<p>Topics may become outdated over time. As the author of a topic, please review
+your contributions periodically and update them as needed. We plan to introduce
+automated reminders for this in the future.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="join-the-community">Join the Community<a href="https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/08/19/announce#join-the-community" class="hash-link" aria-label="Direct link to Join the Community" title="Direct link to Join the Community">​</a></h2>
+<p>For support with new topics, integration, or any other questions, join the
+discussion in the
+<a href="https://swiss-data-science.slack.com/archives/C09ATVARBSP" target="_blank" rel="noopener noreferrer">best-practice documentation Slack channel</a>.</p>
+<p>BR Best-Practice Ambassadors</p>]]></content>
+        <author>
+            <name>Gabriel Nützi</name>
+            <uri>https://github.com/gabyx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some improvements on the styling/content.]]></title>
+        <id>https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/03/12/review</id>
+        <link href="https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/03/12/review"/>
+        <updated>2025-03-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We improved]]></summary>
+        <content type="html"><![CDATA[<p>We improved</p>
+<ul>
+<li>some styling issues.</li>
+<li>included all avatars on the teams page</li>
+</ul>]]></content>
+        <author>
+            <name>Gabriel Nützi</name>
+            <uri>https://github.com/gabyx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documentation goes live.]]></title>
+        <id>https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/02/27/open</id>
+        <link href="https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2025/02/27/open"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The page is now public on]]></summary>
+        <content type="html"><![CDATA[<p>The page is now public on
+<a href="https://swissdatasciencecenter.github.io/best-practice-documentation/" target="_blank" rel="noopener noreferrer">Github</a>.</p>]]></content>
+        <author>
+            <name>Gabriel Nützi</name>
+            <uri>https://github.com/gabyx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2024/10/24/welcome</id>
+        <link href="https://swissdatasciencecenter.github.io/best-practice-documentation/blog/2024/10/24/welcome"/>
+        <updated>2024-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are currently building the new knowledge exchange at SDSC. If you would like]]></summary>
+        <content type="html"><![CDATA[<p>We are currently building the new knowledge exchange at SDSC. If you would like
+to take part -&gt; We are happy. So far not everything is ready yet.</p>
+<p>If you would like to contribute Markdown Conversions from Confluence we would be
+happy!</p>
+<p><a href="https://gitlab.datascience.ch/sdsc-best-practices/documentation/-/issues/6" target="_blank" rel="noopener noreferrer">See here.</a></p>]]></content>
+        <author>
+            <name>Gabriel Nützi</name>
+            <uri>https://github.com/gabyx</uri>
+        </author>
+    </entry>
+</feed>
